@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gihanga Sandothmi</h1>
 <h3 align="center">Undergraduate BSc (Hons) Artificial Intelligence and Data Science student at Robert Gordon University</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2413754-Coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandothmi03&label=Profile%20views&color=0e75b6&style=flat" alt="sandothmi03" /> </p>
