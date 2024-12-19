@@ -25,4 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandothmi03&show_icons=true&locale=en" alt="sandothmi03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandothmi03&" alt="sandothmi03" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandothmi03&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
